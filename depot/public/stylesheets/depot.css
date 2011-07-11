@@ -111,6 +111,10 @@
   margin-right: 2em;
 }
 
+#store .entry form, #store .entry form div {
+  display: inline;
+}
+
 /* Styles for main page */
 
 #banner {
@@ -143,7 +147,7 @@
   padding-top: 1em;
   padding-left: 1em;
   padding-bottom: 1em;
-  width: 16em;
+  width: 16em;f
   background: #141;
   color: #bfb;
   font-size: small;
