@@ -5,4 +5,9 @@ class CartTest < ActiveSupport::TestCase
   test "the truth" do
     assert true
   end
+  
+  test "duplicate products" do
+    cart = Cart.create
+    
+  end
 end
