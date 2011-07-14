@@ -6,8 +6,5 @@ class CartTest < ActiveSupport::TestCase
     assert true
   end
   
-  test "duplicate products" do
-    cart = Cart.create
-    
-  end
+ 
 end
